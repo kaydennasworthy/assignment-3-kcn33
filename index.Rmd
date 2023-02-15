@@ -1,5 +1,5 @@
 ---
-title: 'index'
+title: ''
 output: html_document
 ---
 
@@ -7,6 +7,11 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+# Collaborative Website for NTRES 6100
+### Assignment 3 Collaborators:
+* [Kayden Nasworthy](https://github.com/kaydennasworthy)
+* [Leah Simon](https://github.com/leahesimon)
 
-HOMEPAGE
+<br/>
+
+![Fancy science](https://img.freepik.com/free-vector/hand-drawn-science-education-background_23-2148499325.jpg)
